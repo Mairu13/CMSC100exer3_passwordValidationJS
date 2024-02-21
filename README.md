@@ -1,6 +1,7 @@
 ## JavaScript Basics 1 - Password Validation Program in JavaScript
 
 A requirement fulfilled for course CMSC 100
+
 Made by John Miles Ramos / BSCS
 
 ## To use:
